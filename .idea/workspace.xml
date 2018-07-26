@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d15fa6d-d177-4ec4-8f22-a89951f7f591" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6d15fa6d-d177-4ec4-8f22-a89951f7f591" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -36,6 +34,19 @@
       <usages-collector id="statistics.file.types.edit" />
       <usages-collector id="statistics.file.extensions.edit" />
       <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="2079347891">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.file.extensions.edit" />
+      <usages-collector id="statistics.file.types.open" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -74,7 +85,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="718" />
     <option name="width" value="648" />
     <option name="height" value="738" />
@@ -90,8 +101,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="react_[andrew_mead]" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react_[andrew_mead]" type="462c0819:PsiDirectoryNode" />
+              <item name="react_(andrew_mead)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_(andrew_mead)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_(andrew_mead)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_(andrew_mead)" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,16 +149,17 @@
       <workItem from="1532350215165" duration="167000" />
       <workItem from="1532350436475" duration="3008000" />
       <workItem from="1532419621600" duration="21000" />
+      <workItem from="1532625644285" duration="2060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13560000" />
+    <option name="totallyTimeSpent" value="15620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="718" y="0" width="648" height="738" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22131148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19717261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -154,7 +171,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3857616" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.37580645" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
